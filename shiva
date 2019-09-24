@@ -1,0 +1,41 @@
+Task Details
+
+1) related to sale order quotation confirmation from user and manager
+a) we have 2 users with sales user and sales manager permission
+b) i have created a configuration to set the amount in settings
+
+i am logging in with sales user and try to validate / confirm the quotation with less than 1000 and greater than thousand we will see how it works
+
+c ) here my untaxed amount is < 1000 so it allowed
+d)  if amount > 1000 it will not allow to confirm by user
+
+e) now i will log in with manager and validate it
+done
+
+
+
+
+2) Posting the journal entries based on the batch payslip in single journal 
+a) i am taking 3 employees, it should work for more than that also for simplicity
+b) created a new button confirm batch payslip , this will handle the process of creating journal entry
+c) here all 3 payslips referring to same journal rather than 3 differnt journ entries.
+done
+
+
+4) SHowing print invoice button on the customer payment, if the invoice is paid.
+
+a) once the invoice is paid , when we open the payment screen i have enabled the print invoice button to print the paid invoice
+b) same invoice layout will be displayes
+c) suppose if any payment is created and no invoice is linked to it then the button print invoice button will not be visible.
+
+done.
+
+I am done with these 3 tasks.
+please let me know if any changes required.
+
+Thanks
+
+Shiva.
+
+
+
